@@ -1,0 +1,10 @@
+{
+  "name": "Rabiskr - Aprenda a Desenhar",
+  "description": "Aplicativo interativo de desenho passo a passo com papel digital, trilhas guiadas, estúdio de traço, galeria comunitária e desafios diários.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
